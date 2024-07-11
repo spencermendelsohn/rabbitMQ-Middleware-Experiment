@@ -4,6 +4,7 @@ import json
 import random
 import time
 
+# Random article titles generated from ABC.net.au
 article_titles = [
     "Exploring Australia's Unique Wildlife: From Kangaroos to Koalas",
     "The Great Barrier Reef: Australia's Underwater Wonderland",
@@ -16,6 +17,7 @@ article_titles = [
     "Australian History: From Convict Colony to Modern Nation",
     "Australian Icons: From the Sydney Opera House to Uluru"
 ]
+# Random names generated from ABC.net.au
 users = [
     "Emily Kangaroo",
     "Coral Diver",
